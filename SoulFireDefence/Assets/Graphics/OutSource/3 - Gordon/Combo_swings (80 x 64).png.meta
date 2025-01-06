@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: beadaad3f16d13c47b9363852e3c538b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4079404753558028956
+    second: Combo_swings (80 x 64)_0
+  - first:
+      213: 4226997219912004403
+    second: Combo_swings (80 x 64)_1
+  - first:
+      213: -2721053003120659831
+    second: Combo_swings (80 x 64)_2
+  - first:
+      213: 3851012019598201113
+    second: Combo_swings (80 x 64)_3
+  - first:
+      213: 4456726554825490081
+    second: Combo_swings (80 x 64)_4
+  - first:
+      213: -1529804227812683692
+    second: Combo_swings (80 x 64)_5
+  - first:
+      213: -1533055145388646412
+    second: Combo_swings (80 x 64)_6
+  - first:
+      213: 4621522857487188182
+    second: Combo_swings (80 x 64)_7
+  - first:
+      213: 7420401302967027627
+    second: Combo_swings (80 x 64)_8
+  - first:
+      213: -5713667856520862819
+    second: Combo_swings (80 x 64)_9
+  - first:
+      213: 7377137115035884778
+    second: Combo_swings (80 x 64)_10
+  - first:
+      213: 7997321854924170856
+    second: Combo_swings (80 x 64)_11
+  - first:
+      213: -2262499009837220580
+    second: Combo_swings (80 x 64)_12
+  - first:
+      213: -59193619295323997
+    second: Combo_swings (80 x 64)_13
+  - first:
+      213: -2668683018999237794
+    second: Combo_swings (80 x 64)_14
+  - first:
+      213: 9085349726963088372
+    second: Combo_swings (80 x 64)_15
+  - first:
+      213: -8269236152088296411
+    second: Combo_swings (80 x 64)_16
+  - first:
+      213: 3742738499186877493
+    second: Combo_swings (80 x 64)_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d32218dfa0367c0800000000000000
+      internalID: -4079404753558028956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3333b6f639f49aa30800000000000000
+      internalID: 4226997219912004403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982bbfdd5b0ec3ad0800000000000000
+      internalID: -2721053003120659831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91119ed370b817530800000000000000
+      internalID: 3851012019598201113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae7c69503979dd30800000000000000
+      internalID: 4456726554825490081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4509559f82b05cae0800000000000000
+      internalID: -1529804227812683692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff560eb77e79bae0800000000000000
+      internalID: -1533055145388646412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_7
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d04fd19d82f22040800000000000000
+      internalID: 4621522857487188182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_8
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7023a8baf8af660800000000000000
+      internalID: 7420401302967027627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_9
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93a1875b59f4b0b0800000000000000
+      internalID: -5713667856520862819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_10
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec5011de1bd06660800000000000000
+      internalID: 7377137115035884778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_11
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866293dfad13cfe60800000000000000
+      internalID: 7997321854924170856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_12
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 0
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dbaf5432df990e0800000000000000
+      internalID: -2262499009837220580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_13
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8bee487b3bd2ff0800000000000000
+      internalID: -59193619295323997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_14
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 0
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53fe6afeeee6fad0800000000000000
+      internalID: -2668683018999237794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_15
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 0
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb3dfb075a51e70800000000000000
+      internalID: 9085349726963088372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_16
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52485fe2885cd3d80800000000000000
+      internalID: -8269236152088296411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Combo_swings (80 x 64)_17
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534663bc5d0e0f330800000000000000
+      internalID: 3742738499186877493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Combo_swings (80 x 64)_0: -4079404753558028956
+      Combo_swings (80 x 64)_1: 4226997219912004403
+      Combo_swings (80 x 64)_10: 7377137115035884778
+      Combo_swings (80 x 64)_11: 7997321854924170856
+      Combo_swings (80 x 64)_12: -2262499009837220580
+      Combo_swings (80 x 64)_13: -59193619295323997
+      Combo_swings (80 x 64)_14: -2668683018999237794
+      Combo_swings (80 x 64)_15: 9085349726963088372
+      Combo_swings (80 x 64)_16: -8269236152088296411
+      Combo_swings (80 x 64)_17: 3742738499186877493
+      Combo_swings (80 x 64)_2: -2721053003120659831
+      Combo_swings (80 x 64)_3: 3851012019598201113
+      Combo_swings (80 x 64)_4: 4456726554825490081
+      Combo_swings (80 x 64)_5: -1529804227812683692
+      Combo_swings (80 x 64)_6: -1533055145388646412
+      Combo_swings (80 x 64)_7: 4621522857487188182
+      Combo_swings (80 x 64)_8: 7420401302967027627
+      Combo_swings (80 x 64)_9: -5713667856520862819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
